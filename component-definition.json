@@ -196,20 +196,20 @@
     "fields": [
       {
           "component": "richtext",
-          "name": "text",
+          "name": "textContent_text",
           "label": "Text",
           "valueType": "string",
           "required": true
       },
       {
           "component": "aem-content",
-          "name": "cta",
+          "name": "textContent_cta",
           "label": "CTA",
           "valueType": "string"
       },
       {
           "component": "text",
-          "name": "ctaText",
+          "name": "textContent_ctaText",
           "label": "CTA label",
           "valueType": "string"
       }
