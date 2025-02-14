@@ -31,6 +31,10 @@
           "label": "Style",
           "options": [
             {
+              "name": "Primary",
+              "value": "primary"
+            },
+            {
               "name": "Highlight",
               "value": "highlight"
             }
@@ -50,7 +54,8 @@
         "hero",
         "cards",
         "columns",
-        "fragment"
+        "fragment",
+        "newsletter"
       ]
     }
   ]
