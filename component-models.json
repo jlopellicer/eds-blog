@@ -110,6 +110,10 @@
         "label": "Style",
         "options": [
           {
+            "name": "Primary",
+            "value": "primary"
+          },
+          {
             "name": "Highlight",
             "value": "highlight"
           }
