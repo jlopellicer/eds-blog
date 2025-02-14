@@ -194,20 +194,20 @@
   {
     "id": "newsletter",
     "fields": [
-        {
-          "component": "reference",
-          "valueType": "string",
-          "name": "image",
-          "label": "Image",
-          "multi": false
-        },
-        {
-          "component": "richtext",
-          "name": "text",
-          "value": "",
-          "label": "Text",
-          "valueType": "string"
-        }
+       {
+            "component": "text",
+            "valueType": "string",
+            "name": "text",
+            "label": "Text",
+            "value": "Suscríbete a nuestra newsletter"
+            },
+            {
+            "component": "text",
+            "name": "placeholdertext",
+            "value": "Escribe aquí tu correo",
+            "label": "Placeholder",
+            "valueType": "string"
+            }
     ]
   }
 ]
