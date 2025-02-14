@@ -202,8 +202,8 @@
         "value": "Suscríbete a nuestra newsletter"
       },
       {
-        "component": "richtext",
-        "name": "text",
+        "component": "text",
+        "name": "placeholdertext",
         "value": "Escribe aquí tu correo",
         "label": "Placeholder",
         "valueType": "string"
