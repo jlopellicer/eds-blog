@@ -10,28 +10,28 @@ async function fetchData() {
         "cards": [
             {
                 "logo" : "",
-                "image": "https://soluciones.acciona-energia.com/content/dam…gares/home/ACCIONAEnergi%CC%81a_Home_placas_2.png",
+                "image": "https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-1.coreimg.png/1725526119929/luz-renovable.png",
                 "title": "title 1",
                 "excerpt": "excerpt",
                 "link": "https://google.es/1"
             },
             {
                 "logo" : "",
-                "image": "https://soluciones.acciona-energia.com/content/acc…age-1.coreimg.png/1725526119929/luz-renovable.png",
+                "image": "https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-2.coreimg.png/1725526113829/termostato.png",
                 "title": "title 2",
                 "excerpt": "excerpt",
                 "link": "https://google.es/2"
             },
             {
                 "logo" : "",
-                "image": "https://soluciones.acciona-energia.com/content/dam…gares/home/ACCIONAEnergi%CC%81a_Home_placas_2.png",
+                "image": "https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-1.coreimg.png/1725526119929/luz-renovable.png",
                 "title": "title 3",
                 "excerpt": "excerpt",
                 "link": "https://google.es/3"
             },
             {
                 "logo" : "",
-                "image": "https://soluciones.acciona-energia.com/content/acc…age-1.coreimg.png/1725526119929/luz-renovable.png",
+                "image": "https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-2.coreimg.png/1725526113829/termostato.png",
                 "title": "title 4",
                 "excerpt": "excerpt",
                 "link": "https://google.es/4"
@@ -57,6 +57,7 @@ function buildCard(card) {
 
     var cardImage = document.createElement("img");
     cardImage.setAttribute("src", card.image);
+    cardImage.setAttribute("alt", card.title);
 
     var cardTitle = document.createElement("h2");
     cardTitle.innerText = card.title;
