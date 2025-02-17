@@ -1,5 +1,6 @@
 export default async function decorate(block) {
     var result = await fetchData();
+    buildCards(block, result);
     console.log(result);
 }
 
@@ -39,4 +40,31 @@ async function fetchData() {
     }
 
     return result;
+}
+
+function buildCards(block, result) {
+    var container = document.createElement("div");
+    for(var i = 0; i < result.length; i++) {
+        buildCard(container, result[i]);
+    }
+    block.appendChild(container);
+}
+function buildCard(container, card) {
+    var cardContainer = document.createElement("div");
+    cardContainer.classList.add("card");
+
+    var cardImage = document.createElement("img");
+    cardImage.setAttribute("src", card.image);
+
+    var cardTitle = document.createElement("h2");
+    cardTitle.innerText = card.title;
+
+    var cardExcerpt = document.createElement("p");
+    cardExcerpt.innerText = card.excerpt;
+
+    var button = document.createElement("a");
+    button.setAttribute("href", card.link);
+
+    cardContainer.appendChild(cardImage).appendChild(cardTitle).appendChild(cardExcerpt).appendChild(button);
+    container.appendChild(cardContainer)
 }
