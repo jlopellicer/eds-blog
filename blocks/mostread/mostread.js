@@ -67,6 +67,9 @@ function buildCard(card) {
     var button = document.createElement("a");
     button.setAttribute("href", card.link);
 
-    cardContainer.appendChild(cardImage).appendChild(cardTitle).appendChild(cardExcerpt).appendChild(button);
+    cardContainer.appendChild(cardImage);
+    cardContainer.appendChild(cardTitle);
+    cardContainer.appendChild(cardExcerpt);
+    cardContainer.appendChild(button);
     return cardContainer;
 }
