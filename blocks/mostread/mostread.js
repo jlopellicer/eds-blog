@@ -46,11 +46,11 @@ function buildCards(block, result) {
     var container = document.createElement("div");
     container.classList.add("mostread-cardlist")
     for(var i = 0; i < result.length; i++) {
-        buildCard(container, result[i]);
+        container.appendChild(buildCard(result[i]));
     }
     block.appendChild(container);
 }
-function buildCard(container, card) {
+function buildCard(card) {
     var cardContainer = document.createElement("div");
     cardContainer.classList.add("card");
 
@@ -67,5 +67,5 @@ function buildCard(container, card) {
     button.setAttribute("href", card.link);
 
     cardContainer.appendChild(cardImage).appendChild(cardTitle).appendChild(cardExcerpt).appendChild(button);
-    container.appendChild(cardContainer)
+    return cardContainer;
 }
