@@ -176,7 +176,7 @@
           }
         },
         {
-          "title": "Home Banner",
+          "title": "Home Banner 2",
           "id": "homebanner",
           "plugins": {
             "xwalk": {
