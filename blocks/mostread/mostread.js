@@ -1,5 +1,4 @@
-export default async function decorate(block) {
-
+/*export default async function decorate(block) {
     const url = "https://pokeapi.co/api/v2/pokemon/1";
     alert("hola")
     block.append(url);
@@ -16,4 +15,9 @@ export default async function decorate(block) {
         console.error(error.message);
     }
       
+}*/
+
+
+export default  function decorate(block) {
+    alert("Hola 1")
 }
