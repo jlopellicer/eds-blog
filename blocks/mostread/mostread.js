@@ -1,6 +1,7 @@
 export default async function decorate(block) {
 
     const url = "https://pokeapi.co/api/v2/pokemon/1";
+    alert("hola")
     block.append(url);
     try {
         const response = await fetch(url);
