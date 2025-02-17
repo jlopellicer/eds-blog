@@ -1,7 +1,6 @@
 export default async function decorate(block) {
     var result = await fetchData();
     buildCards(block, result.cards);
-    console.log(result);
 }
 
 async function fetchData() {
@@ -67,6 +66,7 @@ function buildCard(card) {
 
     var button = document.createElement("a");
     button.setAttribute("href", card.link);
+    button.innerText = "Seguir leyendo";
 
     cardContainer.appendChild(cardImage);
     cardContainer.appendChild(cardTitle);
