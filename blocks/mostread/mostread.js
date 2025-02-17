@@ -1,6 +1,6 @@
 export default async function decorate(block) {
     var result = await fetchData();
-    buildCards(block, result);
+    buildCards(block, result.cards);
     console.log(result);
 }
 
@@ -51,6 +51,7 @@ function buildCards(block, result) {
     block.appendChild(container);
 }
 function buildCard(card) {
+    console.log(`Processing ${card.title}`)
     var cardContainer = document.createElement("div");
     cardContainer.classList.add("card");
 
