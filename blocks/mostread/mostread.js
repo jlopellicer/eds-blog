@@ -1,7 +1,6 @@
 export default async function decorate(block) {
     var result = await fetchData();
     console.log(result);
-    
 }
 
 async function fetchData() {
