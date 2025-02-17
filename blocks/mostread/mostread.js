@@ -44,6 +44,7 @@ async function fetchData() {
 
 function buildCards(block, result) {
     var container = document.createElement("div");
+    container.classList.add("mostread-cardlist")
     for(var i = 0; i < result.length; i++) {
         buildCard(container, result[i]);
     }
