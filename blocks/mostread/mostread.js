@@ -1,12 +1,16 @@
-export default function decorate(block) {
-    var xmlhttp = new XMLHttpRequest();
+export default async function decorate(block) {
 
-    xmlhttp.onreadystatechange = function() {
-        if (this.readyState == 4 && this.status == 200) {
-            var myArr = JSON.parse(this.responseText);
-            myFunction(myArr);
+    const url = "https://pokeapi.co/api/v2/pokemon/1";
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+        throw new Error(`Response status: ${response.status}`);
         }
-    };
-    xmlhttp.open("GET", "https://pokeapi.co/api/v2/pokemon/1", true);
-    xmlhttp.send();
+    
+        const json = await response.json();
+        console.log(json);
+    } catch (error) {
+        console.error(error.message);
+    }
+      
 }
