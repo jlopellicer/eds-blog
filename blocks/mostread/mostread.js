@@ -1,23 +1,43 @@
-/*export default async function decorate(block) {
-    const url = "https://pokeapi.co/api/v2/pokemon/1";
-    alert("hola")
-    block.append(url);
-    try {
-        const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error(`Response status: ${response.status}`);
-        }
+export default async function decorate(block) {
+    var result = await fetchData();
+    console.log(result);
     
-        const json = await response.json();
-        console.log(json);
-        block.append(json);
-    } catch (error) {
-        console.error(error.message);
+}
+
+async function fetchData() {
+    //TODO: Return from fetch/XHR
+    var result = {
+        "cards": [
+            {
+                "logo" : "",
+                "image": "https://soluciones.acciona-energia.com/content/dam…gares/home/ACCIONAEnergi%CC%81a_Home_placas_2.png",
+                "title": "title",
+                "excerpt": "excerpt",
+                "link": "https://google.es/1"
+            },
+            {
+                "logo" : "",
+                "image": "https://soluciones.acciona-energia.com/content/acc…age-1.coreimg.png/1725526119929/luz-renovable.png",
+                "title": "title",
+                "excerpt": "excerpt",
+                "link": "https://google.es/2"
+            },
+            {
+                "logo" : "",
+                "image": "https://soluciones.acciona-energia.com/content/dam…gares/home/ACCIONAEnergi%CC%81a_Home_placas_2.png",
+                "title": "title",
+                "excerpt": "excerpt",
+                "link": "https://google.es/3"
+            },
+            {
+                "logo" : "",
+                "image": "https://soluciones.acciona-energia.com/content/acc…age-1.coreimg.png/1725526119929/luz-renovable.png",
+                "title": "title",
+                "excerpt": "excerpt",
+                "link": "https://google.es/4"
+            }
+        ]
     }
-      
-}*/
 
-
-export default  function decorate(block) {
-    alert("Hola 1")
+    return result;
 }
