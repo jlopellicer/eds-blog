@@ -1,6 +1,148 @@
 export default async function decorate(block) {
-    var result = await fetchData();
-    buildCards(block, result.cards);
+    //var result = await fetchData();
+    //buildCards(block, result.cards);
+    block.append(`<div class="acc-benefits aem-GridColumn aem-GridColumn--default--12">
+    
+
+
+
+
+<div class="bg-grey">
+    <div class="container">
+        <div class="block-text-sup">
+            <div class="acc-subtitle ac-typeTagS">
+        
+        <p><b>EMPRESA LÍDER EN EFICIENCIA ENERGÉTICA</b></p>
+
+       
+
+
+
+    
+</div>
+            <div class="ac-title"><h2 class="ac-headline-h2">¿Por qué con ACCIONA Energía?</h2>
+
+
+    
+</div>
+            <div class="acc-description">
+        
+        <p>Somos expertos en optimizar la gestión energética de empresas. </p>
+
+       
+
+
+
+    
+</div>
+        </div>
+        
+            <div class="block-generic">
+                <div class="block-single">
+                    <div class="block-info analyticBenefitsCta1">
+                    
+                        <div class="block-img">
+                            <img src="https://soluciones.acciona-energia.com/content/dam/accionaenergia/empresas/eficiencia-energetica/ACCIONA%20ENERGÍA_EXTREMADURA%20I-II-II%20(45)%20copia%20(3).jpg">
+                        </div>
+                        
+                        
+                        <div class="ac-typeTagL">
+        
+        <p><b>Más de 30 años de experiencia</b></p>
+
+       
+
+
+
+    
+</div>
+                        
+                        <div class="ac-typeBodyM">
+        
+        <p>Gracias a nuestra amplia experiencia, somos el mejor aliado para tu empresa.</p>
+
+       
+
+
+
+    
+</div>
+                    </div>
+                    
+                </div>
+
+            
+                <div class="block-single">
+                    <div class="block-info analyticBenefitsCta1">
+                    
+                        <div class="block-img">
+                            <img src="https://soluciones.acciona-energia.com/content/dam/accionaenergia/empresas/eficiencia-energetica/2021-10-28%20Acciona-Schneider%20%20013.jpg">
+                        </div>
+                        
+                        
+                        <div class="ac-typeTagL">
+        
+        <p><b>Ahorros asegurados</b></p>
+
+       
+
+
+
+    
+</div>
+                        
+                        <div class="ac-typeBodyM">
+        
+        <p>Garantizamos el ahorro energético desarrollando el proyecto integral de eficiencia energética.</p>
+
+       
+
+
+
+    
+</div>
+                    </div>
+                    
+                </div>
+
+            
+                <div class="block-single">
+                    <div class="block-info analyticBenefitsCta1">
+                    
+                        <div class="block-img">
+                            <img src="https://soluciones.acciona-energia.com/content/dam/accionaenergia/empresas/eficiencia-energetica/InstalacionesHospital%20032.jpg">
+                        </div>
+                        
+                        
+                        <div class="ac-typeTagL">
+        
+        <p><b>Gran equipo de expertos en eficiencia energética</b></p>
+
+       
+
+
+
+    
+</div>
+                        
+                        <div class="ac-typeBodyM">
+        
+        <p>Elaboramos un análisis de la situación y nos comprometemos, por contrato, a alcanzar los objetivos de ahorro energético fijados.</p>
+
+       
+
+
+
+    
+</div>
+                    </div>
+                    
+                </div>
+
+            </div>
+        
+    </div>
+</div></div>`);
 }
 
 async function fetchData() {
