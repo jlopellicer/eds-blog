@@ -199,8 +199,11 @@ main .section.primary {
   color: white;
 }
 
-.section[data-width="fullwidth"] {
-  margin: 0;
-  padding:0;
-  width: 100%;
+.section[data-width="fullwidth"] > div {
+  margin: 0 !important;
+  padding:0 !important;
+  width: 100% !important;
+  max-width: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
