@@ -303,5 +303,36 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "accionafooter",
+    "fields": [
+      {
+          "component": "richtext",
+          "valueType": "string",
+          "name": "textContent_subtitle",
+          "label": "Subtitle",
+          "required": true
+      },
+      {
+          "component": "richtext",
+          "valueType": "string",
+          "name": "textContent_title",
+          "label": "Title",
+          "required": true
+      },
+      {
+        "component": "aem-content",
+        "name": "textContent_cta",
+        "label": "CTA",
+        "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "textContent_ctaText",
+        "label": "CTA label",
+        "valueType": "string"
+      }
+    ]
   }
 ]
