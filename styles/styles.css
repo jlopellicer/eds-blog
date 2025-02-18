@@ -209,6 +209,6 @@ main .section.primary {
 }
 
 .section[data-width="fullwidth"]{
-  margin: 0;
-  padding: 0 0;
+  margin: 0 !important;
+  padding: 0 !important;
 }
