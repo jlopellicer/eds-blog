@@ -198,3 +198,9 @@ main .section.primary {
   padding: 40px 0;
   color: white;
 }
+
+.section[data-width="fullwidth"] {
+  margin: 0;
+  padding:0;
+  width: 100%;
+}
