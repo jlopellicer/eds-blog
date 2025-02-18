@@ -645,53 +645,6 @@ main .section.primary {
   }
 }
 
-@font-face {
-  font-style: normal;
-  font-weight: normal;
-  src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-Regular.eot') format('eot'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff/Acciona-Regular.woff') format('woff'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/otf/Acciona-Regular.otf') format('otf'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff2/Acciona-Regular.woff2') format('woff2'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-Regular.otf') format('opentype');
-  font-display: swap
-}
-
-@font-face {
-  font-family: 'Acciona-Medium';
-  font-style: normal;
-  font-weight: normal;
-  src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-Medium.eot') format('eot'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff/Acciona-Medium.woff') format('woff'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/otf/Acciona-Medium.otf') format('otf'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff2/Acciona-Medium.woff2') format('woff2'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-Medium.otf') format('opentype');
-  font-display: swap
-}
-
-@font-face {
-  font-family: 'Acciona-Bold';
-  font-style: normal;
-  font-weight: normal;
-  src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-Bold.eot') format('eot'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff/Acciona-Bold.woff') format('woff'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/otf/Acciona-Bold.otf') format('otf'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff2/Acciona-Bold.woff2') format('woff2'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-Bold.otf') format('opentype');
-  font-display: swap
-}
-
-@font-face {
-  font-family: 'Acciona-Light';
-  font-style: normal;
-  font-weight: normal;
-  src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-Light.eot') format('eot'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff/Acciona-Light.woff') format('woff'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/otf/Acciona-Light.otf') format('otf'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff2/Acciona-Light.woff2') format('woff2'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-Light.otf') format('opentype');
-  font-display: swap
-}
-
-@font-face {
-  font-family: 'Acciona-Extra-Light';
-  font-style: normal;
-  font-weight: normal;
-  src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-ExtraLight.eot') format('eot'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff/Acciona-ExtraLight.woff') format('woff'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/otf/Acciona-ExtraLight.otf') format('otf'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff2/Acciona-ExtraLight.woff2') format('woff2'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-ExtraLight.otf') format('opentype');
-  font-display: swap
-}
-
-@font-face {
-  font-family: 'Acciona-Thin';
-  font-style: normal;
-  font-weight: normal;
-  src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-Thin.eot') format('eot'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff/Acciona-Thin.woff') format('woff'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/otf/Acciona-Thin.otf') format('otf'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff2/Acciona-Thin.woff2') format('woff2'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/eot/Acciona-Thin.otf') format('opentype');
-  font-display: swap
-}
-
 form {
   width: 100%
 }
