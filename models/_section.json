@@ -26,7 +26,7 @@
           "description": "The label shown for this section in the Content Tree"
         },
         {
-          "component": "multiselect",
+          "component": "select",
           "name": "style",
           "label": "Style",
           "options": [
@@ -37,6 +37,21 @@
             {
               "name": "Highlight",
               "value": "highlight"
+            }
+          ]
+        },
+        {
+          "component": "select",
+          "name": "width",
+          "label": "Width",
+          "options": [
+            {
+              "name": "Auto",
+              "value": "auto"
+            },
+            {
+              "name": "Full Width",
+              "value": "fullwidth"
             }
           ]
         }
@@ -55,7 +70,8 @@
         "cards",
         "columns",
         "fragment",
-        "newsletter"
+        "newsletter",
+        "accionafooter"
       ]
     }
   ]
