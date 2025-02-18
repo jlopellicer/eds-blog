@@ -1,0 +1,12 @@
+.mostread.block {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: auto;
+    grid-gap: 1rem;
+}
+
+.mostread.block .card img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}
