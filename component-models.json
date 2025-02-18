@@ -249,7 +249,7 @@
     ]
   },
   {
-    "id": "homebanner",
+    "id": "quicklinks",
     "fields": [
         {
             "component": "text",
