@@ -20,9 +20,6 @@ export default async function decorate(block) {
     
 </div>
 
-    
-
-
             </div>
             <div class="block-text">
                 <div class="ac-headline-04">
