@@ -214,7 +214,7 @@
           }
         },
         {
-          "title": "Acciona Footer",
+          "title": "AccionaFooter",
           "id": "accionafooter",
           "plugins": {
             "xwalk": {
