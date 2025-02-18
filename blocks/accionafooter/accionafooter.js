@@ -1,7 +1,4 @@
 export default async function decorate(block) {
-    alert("Hola");
-    console.log(block)
-
     block.innerHTML = `<div class="acc-footer aem-GridColumn aem-GridColumn--default--12">
 
     
