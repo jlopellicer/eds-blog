@@ -646,7 +646,6 @@ main .section.primary {
 }
 
 @font-face {
-  font-family: 'Acciona-Regular';
   font-style: normal;
   font-weight: normal;
   src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/eot/Acciona-Regular.eot') format('eot'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/woff/Acciona-Regular.woff') format('woff'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/otf/Acciona-Regular.otf') format('otf'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/woff2/Acciona-Regular.woff2') format('woff2'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/eot/Acciona-Regular.otf') format('opentype');
@@ -681,7 +680,7 @@ main .section.primary {
   font-family: 'Acciona-Extra-Light';
   font-style: normal;
   font-weight: normal;
-  src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/eot/Acciona-ExtraLight.eot') format('eot'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/woff/Acciona-ExtraLight.woff') format('woff'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/otf/Acciona-ExtraLight.otf') format('otf'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/woff2/Acciona-ExtraLight.woff2') format('woff2'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/eot/Acciona-ExtraLight.otf') format('opentype');
+  src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/eot/Acciona-ExtraLight.eot') format('eot'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/fonts/woff/Acciona-ExtraLight.woff') format('woff'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/otf/Acciona-ExtraLight.otf') format('otf'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/woff2/Acciona-ExtraLight.woff2') format('woff2'),url('https://soluciones.acciona-energia.com/clientlib-site-acciona/resources/fonts/eot/Acciona-ExtraLight.otf') format('opentype');
   font-display: swap
 }
 
