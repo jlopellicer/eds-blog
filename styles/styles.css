@@ -1115,8 +1115,7 @@ form .block-button button.disabled .icon-ac:before {
 
 @font-face {
   font-family: 'icomoon';
-  src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/icon/icomoon.eot?yj3mfi?113120012023');
-  src: url('https://soluciones.acciona-energia.com/https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/icon/icomoon.eot?yj3mfi?113120012023#iefix') format('embedded-opentype'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/icon/icomoon.ttf?yj3mfi?113120012023') format('truetype'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/icon/icomoon.woff?yj3mfi?113120012023') format('woff'),url('https://soluciones.acciona-energia.com/etc.clientlibs/accionaenergia/clientlibs/clientlib-site-acciona/resources/icon/icomoon.svg?yj3mfi?113120012023#icomoon') format('svg');
+  src: url('../fonts/icomoon.ttf');
   font-weight: normal;
   font-style: normal;
   font-display: block
