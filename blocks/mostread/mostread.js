@@ -8,32 +8,39 @@ async function fetchData() {
     var result = {
         "cards": [
             {
-                "logo" : "",
+                "icon" : "",
                 "image": "https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-1.coreimg.png/1725526119929/luz-renovable.png",
                 "title": "title 1",
                 "excerpt": "excerpt",
                 "link": "https://google.es/1"
             },
             {
-                "logo" : "",
+                "icon" : "",
                 "image": "https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-2.coreimg.png/1725526113829/termostato.png",
                 "title": "title 2",
                 "excerpt": "excerpt",
                 "link": "https://google.es/2"
             },
             {
-                "logo" : "",
+                "icon" : "",
                 "image": "https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-1.coreimg.png/1725526119929/luz-renovable.png",
                 "title": "title 3",
                 "excerpt": "excerpt",
                 "link": "https://google.es/3"
             },
             {
-                "logo" : "",
+                "icon" : "",
                 "image": "https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-2.coreimg.png/1725526113829/termostato.png",
                 "title": "title 4",
                 "excerpt": "excerpt",
                 "link": "https://google.es/4"
+            },
+            {
+                "icon" : "",
+                "image": "https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-2.coreimg.png/1725526113829/termostato.png",
+                "title": "title 5",
+                "excerpt": "excerpt",
+                "link": "https://google.es/5"
             }
         ]
     }
