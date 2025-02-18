@@ -256,13 +256,6 @@ main .section.highlight {
   padding: 40px 0;
 }
 
-main .section.primary_old {
-  background-color: #E1120D;
-  margin: 0;
-  padding: 40px 0;
-  color: white;
-}
-
 main .section.primary {
   background-color: #E1120D;
   margin: 0;
