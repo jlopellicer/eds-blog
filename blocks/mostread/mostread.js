@@ -1,31 +1,18 @@
 export default async function decorate(block) {
     //var result = await fetchData();
     //buildCards(block, result.cards);
-    block.innerHTML = `<div class="block-carousel">
+    block.innerHTML = `<div class="acc-products aem-GridColumn aem-GridColumn--default--12">
+
+     
     
-    <!-- Slider main container -->
-    <div class="swiper swiper-cifras swiper-initialized swiper-horizontal swiper-backface-hidden" style="padding: 0px 709px;">
-        <div class="swiper-wrapper" id="swiper-wrapper-9a2c6b16e4a62cdb" aria-live="off" style="transition-duration: 0ms; transform: translate3d(-2238px, 0px, 0px); transition-delay: 0ms;">
-            <div class="swiper-slide analyticSliderCifrasTitle" role="group" aria-label="1 / 4" style="width: 1119px;">
-                <div class="block-text">
-                    <div class="big-text">
-                        <span class="">170.000</span>
-                    </div>
-                    <div class="medium-text">
-                        <span>MWh</span>
-                    </div>
-                </div>
-                <div class="information-block">
-                    
-                    <div class="ac-title ac-typeTagL">
 
 
-    
-</div>
-                    
-                    <div class="ac-description ac-typeBodyM">
+ 
+ <div class="container">
+     <div class="block-text-sup">
+          <div class="ac-pretitle">
         
-        <p>en ahorros energéticos</p>
+        <p><b>OTROS PRODUCTOS PARA EL HOGAR</b></p>
 
        
 
@@ -33,30 +20,49 @@ export default async function decorate(block) {
 
     
 </div>
-                </div>
-            </div>
-            
-        
-            <div class="swiper-slide analyticSliderCifrasTitle swiper-slide-prev" role="group" aria-label="2 / 4" style="width: 1119px;">
-                <div class="block-text">
-                    <div class="big-text">
-                        <span class="">5.500</span>
-                    </div>
-                    <div class="medium-text">
-                        <span></span>
-                    </div>
-                </div>
-                <div class="information-block">
-                    
-                    <div class="ac-title ac-typeTagL">
+          <div class="ac-title"><h2 class="ac-headline-h2">Sigue ahorrando con estas soluciones energéticas</h2>
 
 
     
 </div>
-                    
-                    <div class="ac-description ac-typeBodyM">
+      </div>
+      <div class="block-generic-card num-item- ">
+          
+               <div class="single-card">
+                    <div class="info-card">
+                         
+                         <div class="bg-image">
+<div data-cmp-is="image" data-cmp-src="https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-1.coreimg{.width}.png/1725526119929/luz-renovable.png" data-asset-id="70d69c0a-1230-4eea-800d-30077d47462e" data-cmp-filereference="/content/dam/accionaenergia/home/Luz renovable.png" id="image-55c2bdf1f1" data-cmp-hook-image="imageV3" class="cmp-image" itemscope="" itemtype="http://schema.org/ImageObject">
+    
+        <img src="https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-1.coreimg.png/1725526119929/luz-renovable.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="6720" height="7432" alt="Home Bussines">
+    
+    
+    
+</div>
+
+    
+
+</div>
+                         <div class="icons-block">
+                              <span class="icon-ac-lightbulb-ecology icon-ac "></span>
+                         </div>
+          
+                         
+                         <div class="ac-pretitle ac-typeTagS">
+
+
+    
+</div>
+                         
+                         <div class="ac-title"><h3 class="ac-headline-h3">Luz renovable a un precio competitivo</h3>
+
+
+    
+</div>
+                         
+                         <div class="ac-description ac-typeBodyM">
         
-        <p>Instalaciones en todo el mundo en las que realizamos la gestión energética</p>
+        <p>Te ofrecemos las mejores tarifas de luz personalizadas y sin permanencia.</p>
 
        
 
@@ -64,30 +70,61 @@ export default async function decorate(block) {
 
     
 </div>
-                </div>
-            </div>
-            
-        
-            <div class="swiper-slide analyticSliderCifrasTitle swiper-slide-active" role="group" aria-label="3 / 4" style="width: 1119px;">
-                <div class="block-text">
-                    <div class="big-text">
-                        <span class="">50.000</span>
-                    </div>
-                    <div class="medium-text">
-                        <span></span>
-                    </div>
-                </div>
-                <div class="information-block">
-                    
-                    <div class="ac-title ac-typeTagL">
+                         
+                         <div class="ac-buttons">
+
+     <a href="/hogares/luz" title="" target="_self" class="ac-btn ac-btn-red ac-border-red ac-color-white">
+          <span>descubrir más</span>
+          <span class="icon-ac-arrow-up icon-ac"></span>
+     </a>
+
+
 
 
     
 </div>
-                    
-                    <div class="ac-description ac-typeBodyM">
+                    </div>
+               </div>
+          
+          
+         
+      
+          
+               <div class="single-card">
+                    <div class="info-card">
+                         
+                         <div class="bg-image">
+<div data-cmp-is="image" data-cmp-src="https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-2.coreimg{.width}.png/1725526113829/termostato.png" data-asset-id="814aeb6e-9004-40e9-a521-07c554592f91" data-cmp-filereference="/content/dam/accionaenergia/home/Termostato.png" id="image-86d71419f7" data-cmp-hook-image="imageV3" class="cmp-image" itemscope="" itemtype="http://schema.org/ImageObject">
+    
+        <img src="https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/_jcr_content/root/container/acc_products_copy/image-2.coreimg.png/1725526113829/termostato.png" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="1860" height="1211" alt="Home Aerotermia">
+    
+    
+    
+</div>
+
+    
+
+</div>
+                         <div class="icons-block">
+                              <span class="icon-ac-aerotermia icon-ac "></span>
+                         </div>
+          
+                         
+                         <div class="ac-pretitle ac-typeTagS">
+
+
+    
+</div>
+                         
+                         <div class="ac-title"><h3 class="ac-headline-h3">Aerotermia, la climatización más eficiente</h3>
+
+
+    
+</div>
+                         
+                         <div class="ac-description ac-typeBodyM">
         
-        <p>puntos de iluminación de Ayuntamientos y plantas industriales.</p>
+        <p>Calefacción, agua caliente y refrigeración los 365 días del año.</p>
 
        
 
@@ -95,59 +132,26 @@ export default async function decorate(block) {
 
     
 </div>
-                </div>
-            </div>
-            
-        
-            <div class="swiper-slide analyticSliderCifrasTitle swiper-slide-next" role="group" aria-label="4 / 4" style="width: 1119px;">
-                <div class="block-text">
-                    <div class="big-text">
-                        <span class="">17.000</span>
-                    </div>
-                    <div class="medium-text">
-                        <span></span>
-                    </div>
-                </div>
-                <div class="information-block">
-                    
-                    <div class="ac-title ac-typeTagL">
+                         
+                         <div class="ac-buttons">
 
+     <a href="/hogares/aerotermia" title="" target="_self" class="ac-btn ac-btn-red ac-border-red ac-color-white">
+          <span>DESCUBRIR MÁS</span>
+          <span class="icon-ac-arrow-up icon-ac"></span>
+     </a>
 
-    
-</div>
-                    
-                    <div class="ac-description ac-typeBodyM">
-        
-        <p>toneladas de CO2 evitadas gracias a soluciones de eficiencia energética</p>
-
-       
 
 
 
     
 </div>
-                </div>
-            </div>
-            
-        </div>
-         <!-- If we need pagination -->
-        <div class="swiper-pagination swiper-pagination-cifras"></div>  
-    
-            <!-- If we need scrollbar -->
-        <div class="container">
-            <div class="swiper-scrollbar swiper-scrollbar-cifras swiper-scrollbar-horizontal"><div class="swiper-scrollbar-drag" style="transform: translate3d(447.5px, 0px, 0px); transition-duration: 0ms; width: 223.75px;"></div></div>
-            <div class="buttons-swipper analyticSliderCifras">
-                <div class="swiper-button-prev swiper-button-prev-cifras" tabindex="0" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-9a2c6b16e4a62cdb" aria-disabled="false">
-                    <span class="icon-ac-arrow-left icon-ac"></span>
-                </div>
-                <div class="swiper-button-next swiper-button-next-cifras" tabindex="0" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-9a2c6b16e4a62cdb" aria-disabled="false">
-                    <span class="icon-ac-arrow-right icon-ac"></span>
-                </div>
-            </div>
-            
-        </div>
-    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
-   
+                    </div>
+               </div>
+          
+          
+         
+      </div>
+ </div>
 </div>`
 }
 
