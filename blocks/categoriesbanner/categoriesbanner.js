@@ -11,9 +11,9 @@ export default async function decorate(block) {
     
         <div class="block-img">
             
-<div data-cmp-is="image" data-cmp-src="/content/accionaenergia/master/es/hogares/movilidad-electrica/recarga-en-casa/_jcr_content/root/container/container/acc_hero_copy/image.coreimg{.width}.jpeg/1725526140329/recarga-en-casa---banner.jpeg" data-asset-id="39e0b129-fade-4ac6-a18a-c6784635a5e7" data-cmp-filereference="/content/dam/accionaenergia/hogares/movilidad/recarga-en-casa/Recarga en casa - Banner.jpg" id="image-db26f9a557" data-cmp-hook-image="imageV3" class="cmp-image" itemscope="" itemtype="http://schema.org/ImageObject">
+<div data-cmp-is="image" data-cmp-src="https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/movilidad-electrica/recarga-en-casa/_jcr_content/root/container/container/acc_hero_copy/image.coreimg{.width}.jpeg/1725526140329/recarga-en-casa---banner.jpeg" data-asset-id="39e0b129-fade-4ac6-a18a-c6784635a5e7" data-cmp-filereference="https://soluciones.acciona-energia.com/content/dam/accionaenergia/hogares/movilidad/recarga-en-casa/Recarga en casa - Banner.jpg" id="image-db26f9a557" data-cmp-hook-image="imageV3" class="cmp-image" itemscope="" itemtype="http://schema.org/ImageObject">
     
-        <img src="/content/accionaenergia/master/es/hogares/movilidad-electrica/recarga-en-casa/_jcr_content/root/container/container/acc_hero_copy/image.coreimg.jpeg/1725526140329/recarga-en-casa---banner.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="7952" height="5304" alt="placas solares" title="1487396116">
+        <img src="https://soluciones.acciona-energia.com/content/accionaenergia/master/es/hogares/movilidad-electrica/recarga-en-casa/_jcr_content/root/container/container/acc_hero_copy/image.coreimg.jpeg/1725526140329/recarga-en-casa---banner.jpeg" loading="lazy" class="cmp-image__image" itemprop="contentUrl" width="7952" height="5304" alt="placas solares" title="1487396116">
     
     
     <meta itemprop="caption" content="1487396116">
