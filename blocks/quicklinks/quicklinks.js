@@ -67,6 +67,20 @@ export default async function decorate(block) {
 
     
 </div>
+<div class="link ac-typeTagS analyticPreFooter" style="
+    margin-top: 20px;
+">
+
+     <a href="https://soluciones.acciona-energia.com/formulario-de-contacto" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
+          <span>FORMULARIO DE CONTACTO</span>
+          <span class="icon-ac-arrow-up icon-ac"></span>
+     </a>
+
+
+
+
+    
+</div>
                     </div>
                     
                 </div>
@@ -101,6 +115,20 @@ export default async function decorate(block) {
 
     
 </div>
+<div class="link ac-typeTagS analyticPreFooter" style="
+    margin-top: 20px;
+">
+
+     <a href="https://soluciones.acciona-energia.com/formulario-de-contacto" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
+          <span>FORMULARIO DE CONTACTO</span>
+          <span class="icon-ac-arrow-up icon-ac"></span>
+     </a>
+
+
+
+
+    
+</div>
                     </div>
                     
                 </div>
@@ -130,6 +158,20 @@ export default async function decorate(block) {
         <p>Elaboramos un análisis de la situación y nos comprometemos, por contrato, a alcanzar los objetivos de ahorro energético fijados.</p>
 
        
+
+
+
+    
+</div>
+<div class="link ac-typeTagS analyticPreFooter" style="
+    margin-top: 20px;
+">
+
+     <a href="https://soluciones.acciona-energia.com/formulario-de-contacto" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
+          <span>FORMULARIO DE CONTACTO</span>
+          <span class="icon-ac-arrow-up icon-ac"></span>
+     </a>
+
 
 
 
