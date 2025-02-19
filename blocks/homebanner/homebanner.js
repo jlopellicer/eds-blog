@@ -29,7 +29,7 @@ export default async function decorate(block) {
 
 
                             </div>
-                            <div class="block-text bg-pastilla">
+                            <div class="block-text">
                                 <div class="container">
                                     <div class="">
                                         <div class="description col-12 ac-typeTagS">
@@ -47,18 +47,7 @@ export default async function decorate(block) {
 
     
 </div>
-                                        <div class="button-block">
-
-     <a href="https://soluciones.acciona-energia.com//hogares/luz" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
-          <span>Calcula tu ahorro</span>
-          <span class="icon-ac-arrow-up icon-ac"></span>
-     </a>
-
-
-
-
-    
-</div>
+                                       
                                     </div>            
                                 </div>
                             </div>
@@ -225,5 +214,5 @@ export default async function decorate(block) {
 
     
 
-</div>`;
+</div>`
 }
