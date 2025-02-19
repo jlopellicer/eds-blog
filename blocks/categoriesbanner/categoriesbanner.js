@@ -27,14 +27,14 @@ export default async function decorate(block) {
         <div class="block-text">
             <div class="container">
                 <div class="">
-                    <div class="title col-12 col-sm-8  ac-headline-01"><h2 class="ac-headline-h2">Instala tu propio punto de recarga en casa </h2>
+                    <div class="title col-12 col-sm-8  ac-headline-01"><h2 class="ac-headline-h2">El blog de Acciona Energía</h2>
 
 
     
 </div>
                     <div class="description col-8 col-sm-4 ac-typeBodyL">
         
-        <p>Ahorra tiempo y dinero recargando tu vehículo eléctrico en casa</p>
+        <p>NUESTRO PROPÓSITO</p>
 
        
 
