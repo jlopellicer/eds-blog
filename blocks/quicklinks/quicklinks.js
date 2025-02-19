@@ -1,7 +1,7 @@
 export default async function decorate(block) {
     //var result = await fetchData();
     //buildCards(block, result.cards);
-    block.append(`<div class="acc-benefits aem-GridColumn aem-GridColumn--default--12">
+    block.innerHTML  = `<div class="acc-benefits aem-GridColumn aem-GridColumn--default--12">
     
 
 
@@ -142,7 +142,7 @@ export default async function decorate(block) {
             </div>
         
     </div>
-</div></div>`);
+</div></div>`;
 }
 
 async function fetchData() {

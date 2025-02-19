@@ -1,5 +1,5 @@
 export default async function decorate(block) {
-    block.append(`<div class="acc-hero aem-GridColumn aem-GridColumn--default--12">
+    block.innerHTML = `<div class="acc-hero aem-GridColumn aem-GridColumn--default--12">
     
     
 
@@ -225,5 +225,5 @@ export default async function decorate(block) {
 
     
 
-</div>`)
+</div>`;
 }
