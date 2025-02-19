@@ -7,7 +7,7 @@ export default async function decorate(block) {
 
 
 
-<div class="bg-grey">
+<div class="">
     <div class="container">
         <div class="block-text-sup">
             <div class="acc-subtitle ac-typeTagS">
