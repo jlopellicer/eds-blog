@@ -12,7 +12,7 @@ export default async function decorate(block) {
      <div class="block-text-sup">
           <div class="ac-pretitle">
         
-        <p><b>OTROS PRODUCTOS PARA EL HOGAR</b></p>
+        <p><b>DESCUBRE NUESTRO BLOG</b></p>
 
        
 
@@ -20,7 +20,7 @@ export default async function decorate(block) {
 
     
 </div>
-          <div class="ac-title"><h2 class="ac-headline-h2">Sigue ahorrando con estas soluciones energéticas</h2>
+          <div class="ac-title"><h2 class="ac-headline-h2">Lo más leído este mes</h2>
 
 
     

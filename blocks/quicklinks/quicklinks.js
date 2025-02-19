@@ -12,7 +12,7 @@ export default async function decorate(block) {
         <div class="block-text-sup">
             <div class="acc-subtitle ac-typeTagS">
         
-        <p><b>EMPRESA LÍDER EN EFICIENCIA ENERGÉTICA</b></p>
+        <p><b>EL BLOG DE ACCIONA ENERGIA PARA HOGARES</b></p>
 
        
 
@@ -20,21 +20,12 @@ export default async function decorate(block) {
 
     
 </div>
-            <div class="ac-title"><h2 class="ac-headline-h2">¿Por qué con ACCIONA Energía?</h2>
+            <div class="ac-title"><h2 class="ac-headline-h2">Artículos por categorías</h2>
 
 
     
 </div>
-            <div class="acc-description">
         
-        <p>Somos expertos en optimizar la gestión energética de empresas. </p>
-
-       
-
-
-
-    
-</div>
         </div>
         
             <div class="block-generic">
