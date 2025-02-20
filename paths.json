@@ -1,5 +1,6 @@
 {
   "mappings": [
-    "/content/acciona-blog/:/"
+    "/content/acciona-blog/:/",
+    "/content/acciona-blog/configuration:/.helix/config.json"
   ]
 }
