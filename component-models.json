@@ -337,10 +337,8 @@
     "id": "categories",
     "fields": []
   },
-  "models": [
-      {
-        "id": "entryheader",
-        "fields": [ ]
-      }
-    ]
+  {
+    "id": "entryheader",
+    "fields": [ ]
+  }
 ]
