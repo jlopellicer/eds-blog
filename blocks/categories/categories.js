@@ -9,7 +9,7 @@ export default async function decorate(block) {
          <div class="ac-title">
             <h2 class="ac-headline-h2">Sigue ahorrando con estas soluciones energéticas</h2>
          </div>
-         <div class="block-generic-card num-item- " style="justify-content: space-around;">
+         <div class="ac-title block-generic-card num-item- " style="justify-content: space-around;">
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
                 <span>VER TODO</span>
             </a>
