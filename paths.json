@@ -1,6 +1,11 @@
 {
   "mappings": [
     "/content/acciona-blog/:/",
-    "/content/acciona-blog/configuration:/.helix/config.json"
-  ]
+    "/content/acciona-blog/configuration:/.helix/config.json",
+    "/content/acciona-blog/metadata:/metadata.json"
+
+  ],
+"includes": [
+  "/content/acciona-blog/"
+]
 }
