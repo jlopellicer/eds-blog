@@ -10,28 +10,28 @@ export default async function decorate(block) {
             <h2 class="ac-headline-h2">Sigue ahorrando con estas soluciones energéticas</h2>
          </div>
          <div class="block-generic-card num-item- " style="justify-content: space-around;">
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
             </a>
          </div>
