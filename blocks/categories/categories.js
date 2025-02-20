@@ -12,35 +12,27 @@ export default async function decorate(block) {
          <div class="block-generic-card num-item- ">
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
-                <span class="icon-ac-arrow-up icon-ac"></span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
-                <span class="icon-ac-arrow-up icon-ac"></span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
-                <span class="icon-ac-arrow-up icon-ac"></span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
-                <span class="icon-ac-arrow-up icon-ac"></span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
-                <span class="icon-ac-arrow-up icon-ac"></span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
-                <span class="icon-ac-arrow-up icon-ac"></span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
-                <span class="icon-ac-arrow-up icon-ac"></span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
                 <span>Solicita tu estudio gratuito</span>
-                <span class="icon-ac-arrow-up icon-ac"></span>
             </a>
          </div>
       </div>
