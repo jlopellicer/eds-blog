@@ -12,25 +12,25 @@ export default async function decorate(block) {
          <div class="ac-title block-generic-card num-item- " style="justify-content: center;
     column-gap: 10px;
     row-gap: 10px;">
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn-transparent ac-border-red ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black" style="padding:12px 16px 12px 16px">
                 <span>VER TODO</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn-transparent ac-border-red ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black" style="padding:12px 16px 12px 16px">
                 <span>RENOVABLES</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn-transparent ac-border-red ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black" style="padding:12px 16px 12px 16px">
                 <span>MOVILIDAD SOSTENIBLE</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn-transparent ac-border-red ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black" style="padding:12px 16px 12px 16px">
                 <span>HOGARES EFICIENTES</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn-transparent ac-border-red ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black" style="padding:12px 16px 12px 16px">
                 <span>AHORRO ENERGÉTICO</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn-transparent ac-border-red ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black" style="padding:12px 16px 12px 16px">
                 <span>EMPRESAS QUE CUIDAN EL PLANETA</span>
             </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn-transparent ac-border-red ac-color-black">
+            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black" style="padding:12px 16px 12px 16px">
                 <span>EL FUTURO DE LA ENERGÍA</span>
             </a>
          </div>
