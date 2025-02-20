@@ -11,28 +11,25 @@ export default async function decorate(block) {
          </div>
          <div class="block-generic-card num-item- " style="justify-content: space-around;">
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
-                <span>Solicita tu estudio gratuito</span>
+                <span>VER TODO</span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
-                <span>Solicita tu estudio gratuito</span>
+                <span>RENOVABLES</span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
-                <span>Solicita tu estudio gratuito</span>
+                <span>MOVILIDAD SOSTENIBLE</span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
-                <span>Solicita tu estudio gratuito</span>
+                <span>HOGARES EFICIENTES</span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
-                <span>Solicita tu estudio gratuito</span>
+                <span>AHORRO ENERGÉTICO</span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
-                <span>Solicita tu estudio gratuito</span>
+                <span>EMPRESAS QUE CUIDAN EL PLANETA</span>
             </a>
             <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
-                <span>Solicita tu estudio gratuito</span>
-            </a>
-            <a href="/hogares/formulario-hogares" title="" target="_self" class="ac-btn ac-btn-transparent ac-border-red ac-color-black">
-                <span>Solicita tu estudio gratuito</span>
+                <span>EL FUTURO DE LA ENERGÍA</span>
             </a>
          </div>
       </div>
