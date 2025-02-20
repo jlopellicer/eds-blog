@@ -336,5 +336,11 @@
   {
     "id": "categories",
     "fields": []
-  }
+  },
+  "models": [
+      {
+        "id": "entryheader",
+        "fields": [ ]
+      }
+    ]
 ]
