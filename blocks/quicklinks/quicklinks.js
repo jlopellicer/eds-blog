@@ -19,7 +19,7 @@ export default async function decorate(block) {
                      <img src="https://soluciones.acciona-energia.com/content/dam/accionaenergia/empresas/eficiencia-energetica/ACCIONA%20ENERGÍA_EXTREMADURA%20I-II-II%20(45)%20copia%20(3).jpg">
                   </div>
                   <div class="ac-typeTagL">
-                     <p><b>RENOVABLES/b></p>
+                     <p><b>RENOVABLES</b></p>
                   </div>
                   <div class="ac-typeBodyM">
                      <p>Infórmate sobre fuentes limpias e inagotables de energía</p>
