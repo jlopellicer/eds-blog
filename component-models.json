@@ -332,5 +332,9 @@
   {
     "id": "homebanner",
     "fields": []
+  },
+  {
+    "id": "categories",
+    "fields": []
   }
 ]

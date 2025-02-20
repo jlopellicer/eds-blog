@@ -42,18 +42,7 @@ export default async function decorate(block) {
 
     
 </div>
-                    <div class="button-block">
-
-     <a href="/hogares/movilidad-electrica/recarga-en-casa/formulario-recarga-casa" title="" target="_self" class="ac-btn ac-btn-white ac-border-white ac-color-black">
-          <span>Solicita más información</span>
-          <span class="icon-ac-arrow-up icon-ac"></span>
-     </a>
-
-
-
-
-    
-</div>
+                    
                 </div>            
             </div>
         </div>
